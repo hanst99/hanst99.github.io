@@ -1,0 +1,10 @@
+#+TITLE: Github Pages
+
+These are a service offered by Github to publish static web pages on Github
+servers.
+
+The alternative to this would be using some other hosting provider, or go "raw"
+and deploy our own webserver on a VPS, AWS or w/e, but we'll check this out
+first because it's free and _should_ be relatively easy to set up.
+
+[[https://docs.github.com/en/pages][Documentation]]

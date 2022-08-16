@@ -1,0 +1,6 @@
+#+TITLE: Personal Page
+
+A personal (or organisation) page is what's served by
+~<user/org-name>.github.io~. You can create on by creating a repo with that name
+(e.g. hanst99.github.io in my case) on that respective user/organisation.
+Otherwise, it seems it works just like any other github pages project.
