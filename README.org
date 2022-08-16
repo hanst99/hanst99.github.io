@@ -1,0 +1,15 @@
+#+TITLE: Monobook
+
+The idea here is that I'll have a single repository for all my notes on a
+variety of subjects, excluding private information of course. I'm not so sure
+how well it'll work for me, but I want to give it a good ol' college try at
+least.
+
+I'm as yet undecided how exactly I'll organise it, but the vague idea here would
+be have a big ol' (mostly) static page mostly based on org/org-publish. Or
+possibly pandoc if that ends up working better for me. Maybe throw in something
+like Hakyll if I want to do something more complex (thinking of things like
+having a history for each page / static links to a specific version for each
+page etc).
+
+For now I'm just trying to get the basic github pages setup working though.
